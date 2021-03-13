@@ -1,0 +1,43 @@
+.bg1 {
+    background-color: green;
+}
+
+.bg2 {
+    background-color: grey;
+    height: 100vh;
+    width: 100%;
+}
+
+.bg3 {
+    background-color: hotpink;
+}
+
+.bg4 {
+    background-color: khaki;
+}
+
+.hw1 {
+    height: 100vh;
+    width: 100%;
+}
+
+.h {
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+
+.p {
+    font-size: 30px;
+    color: darkred;
+}
+
+.a {
+    font-size: 30px;
+    color: #000;
+    font-style: italic;
+}
+
+html {
+    scroll-behavior: smooth;
+}
